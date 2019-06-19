@@ -2,12 +2,11 @@
 
 
 PyCity Schools Analysis
-n = 15 schools 
-Values = school size, budgets and grades, 
-Goal = explore their effect on math scores, reading scores and overall passing.
+SAMPLE SIZE = 15 schools 
+VALUES  = school size, budgets and grades, 
+OUTCOME = explore their effect on math scores, reading scores and overall passing.
 
-
-Generally, average math score (78.99), were lower than average reading scores (81.88).
+Average math score (78.99), were lower than average reading scores (81.88).
 
 The best performing school was Cabrera High School with an overall passing rate of 95.59%, while the worst performing school was Rodriguez High School, with an overall passing rate of 73.29%.
 
