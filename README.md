@@ -1,5 +1,6 @@
 # pycity
-homework 4
+
+
 PyCity Schools Analysis
 n = 15 schools 
 Values = school size, budgets and grades, 
